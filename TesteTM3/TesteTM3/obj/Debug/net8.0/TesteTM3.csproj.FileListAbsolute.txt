@@ -1,0 +1,14 @@
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\bin\Debug\net8.0\TesteTM3.exe
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\bin\Debug\net8.0\TesteTM3.deps.json
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\bin\Debug\net8.0\TesteTM3.runtimeconfig.json
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\bin\Debug\net8.0\TesteTM3.dll
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\bin\Debug\net8.0\TesteTM3.pdb
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.AssemblyInfoInputs.cache
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.AssemblyInfo.cs
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.csproj.CoreCompileInputs.cache
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.dll
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\refint\TesteTM3.dll
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.pdb
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\TesteTM3.genruntimeconfig.cache
+C:\Users\wmdna\OneDrive\Documentos\C#\TesteTM3\TesteTM3\obj\Debug\net8.0\ref\TesteTM3.dll
