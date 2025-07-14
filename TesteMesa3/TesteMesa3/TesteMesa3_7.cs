@@ -10,11 +10,16 @@ namespace TesteMesa3
     {
         public static void Resp7()
         {
+            Console.WriteLine("\nExercício 7: Teste de Mesa 3");
+
             Console.Write("Digite o valor presente: R$");
             double vp = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Digite a taxa de juros: ");
             double taxa = Convert.ToDouble(Console.ReadLine()) / 100;
+
+            Console.Write("Digite o período (em meses): ");
+            int periodo = Convert.ToInt32(Console.ReadLine());
 
             int i = 1;
             bool continuar = true;
@@ -30,10 +35,25 @@ namespace TesteMesa3
 
                 if (i == 5)
                 {
-                    vp = classe.getVf() - 1000;
-                    classe.setVf(vp);
-                    i -= 5;
-                    Console.WriteLine($"Você resgatou R$1000! Seu saldo agora é R$ {classe.getVf():F2}");
+                    double resgate = 0;
+
+                    do
+                    {
+                        Console.Write("Digite um valor para resgatar: R$");
+                        resgate = Convert.ToDouble(Console.ReadLine());
+
+                        if (resgate <= classe.getVf())
+                        {
+                            vp = classe.getVf() - resgate;
+                            classe.setVf(vp);
+                            Console.WriteLine($"Você resgatou R${resgate} com sucesso! Seu saldo agora é R$ {classe.getVf():F2}");
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Você não possui essa quantia, digite outro valor.\n");
+                        }
+                    } while (resgate > classe.getVf());
                 }
 
                 i++;
@@ -46,7 +66,7 @@ namespace TesteMesa3
                     continuar = false;
                 }
 
-            } while (continuar);
+            } while (continuar && i <= periodo);
         }
     }
 }

@@ -10,6 +10,8 @@ namespace TesteMesa3
     {
         public static void Resp6()
         {
+            Console.WriteLine("\nExercício 6: Teste de Mesa 3");
+
             bool continuar = true;
 
             while (continuar)

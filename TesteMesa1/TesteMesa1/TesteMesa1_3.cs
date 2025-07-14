@@ -10,6 +10,8 @@ namespace TesteMesa1
     {
         public static void Resp3()
         {
+            Console.WriteLine("\nExercício 3: Teste de Mesa 1");
+
             int a = 7;
             int b = a - 6;
             int[] v = new int[4];

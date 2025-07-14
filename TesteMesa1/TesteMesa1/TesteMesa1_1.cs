@@ -10,6 +10,8 @@ namespace TesteMesa1
     {
         public static void Resp1()
         {
+            Console.WriteLine("\nExercício 1: Teste de Mesa 1");
+
             int a = 10;
             int b = 20;
             int c = (a + b) / 2;
