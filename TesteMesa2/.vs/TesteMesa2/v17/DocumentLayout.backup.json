@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\testemesa2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\testemesa2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\testemesa2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\testemesa2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\testemesa2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\testemesa2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\testemesa2_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\testemesa2_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testemesa2\\testemesa2\\testemesa2_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF81EFFB-26CE-4E63-BBB7-832BB8A4931B}|TesteMesa2\\TesteMesa2.csproj|solutionrelative:testemesa2\\testemesa2_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\Program.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\Program.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\Program.cs",
+              "RelativeToolTip": "TesteMesa2\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:50:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TesteMesa2_5.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_5.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\TesteMesa2_5.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_5.cs",
+              "RelativeToolTip": "TesteMesa2\\TesteMesa2_5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:48:48.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TesteMesa2_4.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_4.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\TesteMesa2_4.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_4.cs",
+              "RelativeToolTip": "TesteMesa2\\TesteMesa2_4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:48:17.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TesteMesa2_3.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_3.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\TesteMesa2_3.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_3.cs",
+              "RelativeToolTip": "TesteMesa2\\TesteMesa2_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:47:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TesteMesa2_2.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_2.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\TesteMesa2_2.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_2.cs",
+              "RelativeToolTip": "TesteMesa2\\TesteMesa2_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:47:23.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteMesa2_1.cs",
+              "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_1.cs",
+              "RelativeDocumentMoniker": "TesteMesa2\\TesteMesa2_1.cs",
+              "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\TesteMesa2\\TesteMesa2\\TesteMesa2_1.cs",
+              "RelativeToolTip": "TesteMesa2\\TesteMesa2_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T19:46:34.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
