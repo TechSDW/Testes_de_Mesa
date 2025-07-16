@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\testemesa3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\testemesa3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\classtm8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\classtm8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\testemesa3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\testemesa3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\testemesa3_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\testemesa3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\testemesa3_8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|c:\\users\\wmdna\\onedrive\\documentos\\c#\\testes_mesa\\testemesa3\\testemesa3\\testemesa3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AC0DDB6-3DE1-4E6E-A764-A950E91CD050}|TesteMesa3\\TesteMesa3.csproj|solutionrelative:testemesa3\\testemesa3_7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "TesteMesa3_7.cs",
               "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_7.cs",
               "RelativeDocumentMoniker": "TesteMesa3\\TesteMesa3_7.cs",
               "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_7.cs",
               "RelativeToolTip": "TesteMesa3\\TesteMesa3_7.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T20:05:50.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TesteMesa3_6.cs",
               "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_6.cs",
               "RelativeDocumentMoniker": "TesteMesa3\\TesteMesa3_6.cs",
               "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_6.cs",
               "RelativeToolTip": "TesteMesa3\\TesteMesa3_6.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T20:03:40.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T20:03:40.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClassTM8.cs",
               "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\ClassTM8.cs",
               "RelativeDocumentMoniker": "TesteMesa3\\ClassTM8.cs",
               "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\ClassTM8.cs",
               "RelativeToolTip": "TesteMesa3\\ClassTM8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:35:13.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:35:13.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TesteMesa3_8.cs",
               "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_8.cs",
               "RelativeDocumentMoniker": "TesteMesa3\\TesteMesa3_8.cs",
               "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\TesteMesa3_8.cs",
               "RelativeToolTip": "TesteMesa3\\TesteMesa3_8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:34:52.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:34:52.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\Program.cs",
               "RelativeDocumentMoniker": "TesteMesa3\\Program.cs",
               "ToolTip": "C:\\Users\\wmdna\\OneDrive\\Documentos\\C#\\Testes_Mesa\\TesteMesa3\\TesteMesa3\\Program.cs",
               "RelativeToolTip": "TesteMesa3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:04:58.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:04:58.709Z"
             }
           ]
         }

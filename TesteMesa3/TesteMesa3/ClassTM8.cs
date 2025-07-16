@@ -33,8 +33,6 @@ namespace TesteMesa3
         {
             vf = vp * Math.Pow((1 + taxa), periodo);
             rend = vf - vp;
-
-            Console.WriteLine(vf);
         }
     }
 }
